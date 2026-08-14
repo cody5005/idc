@@ -1,5 +1,7 @@
 # idc.
 
+**Live: <https://cody5005.github.io/idc/>**
+
 A six-screen troll quiz for anyone whose texts are too long to read. Rebuilt
 from scratch as a dependency-free static page — no React, no framer-motion,
 no confetti library, no font CDN.
